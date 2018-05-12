@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26670
     wikipedia: http://en.wikipedia.org/wiki/Marie_Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24682#Quilts--Their-Story-and-How-to-Make-Them
 gutenberg_bookshelf:
 - Technology
 - Crafts
