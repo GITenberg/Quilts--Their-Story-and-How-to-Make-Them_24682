@@ -1,0 +1,34 @@
+_repo: Quilts--Their-Story-and-How-to-Make-Them_24682
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Marie D. (Marie Daugherty)
+    alias: Webster, Marie Daugherty
+    birthdate: 1859
+    deathdate: 1956
+    gutenberg_agent_id: '26670'
+    url: http://www.gutenberg.org/2009/agents/26670
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Webster
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2008-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcc 'NK'
+- !lcsh 'Coverlets'
+- !lcsh 'Quilting'
+- !lcsh 'Quilts'
+title: 'Quilts: Their Story and How to Make Them'
+url: http://www.gutenberg.org/ebooks/24682
